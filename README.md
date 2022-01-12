@@ -4,6 +4,10 @@ A Lord of the Rings database
 The project aims to provide everything LOTR. A standalone onestop destination app for the LOTR fans as well as
 provide reusable apis for anyone to play around with.
 
+#Legends
+(*) - Currently Working
+(^) - Facing Issues
+
 # Stages
 1. Genealogy*
 2. Maps and Regions of Middle Earth
