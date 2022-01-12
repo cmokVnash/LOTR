@@ -5,7 +5,7 @@ The project aims to provide everything LOTR. A standalone onestop destination ap
 provide reusable apis for anyone to play around with.
 
 # Stages
-1. Genealogy
+1. Genealogy*
 2. Maps and Regions of Middle Earth
 3. Lores
 4. A section for FanFiction
