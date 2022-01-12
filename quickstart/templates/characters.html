@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content%}
+    <h1>HELLO</h1>
+    <ul>
+        {% for region in regions %}
+        <li>{{ region.generation}}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
